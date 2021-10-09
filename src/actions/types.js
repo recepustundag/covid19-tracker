@@ -1,0 +1,3 @@
+export const FETCH_COUNTRY = "FETCH_COUNTRY";
+export const FETCH_MAPINFO = "FETCH_MAPINFO";
+export const ACTIVE_COUNTRY = "ACTIVE_COUNTRY";
